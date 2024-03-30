@@ -1,1 +1,3 @@
 # offline-node
+
+Open-sourced.
