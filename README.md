@@ -1,6 +1,6 @@
 # offline-node
 
-Open-sourced.
+Open-sourced. https://offline.cat/
 
 ~~Buy me a coffee~~
 
