@@ -1,4 +1,4 @@
-# offline-node
+# offline-sdk
 
 Open-sourced. https://offline.cat/
 
